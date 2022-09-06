@@ -1,1 +1,3 @@
 this is a test messagw to check the git working in git bash 
+
+this is for testing the third message
